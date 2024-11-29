@@ -10,18 +10,18 @@
     "FAIR",
     "Open Science"
   ],
-  "author": "Rowan Cockett <rowan@curvenote.com>",
+  "author": "Rowan Cockett <rowan@continuous.foundation>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/curvenote/fair-principles",
+  "homepage": "https://github.com/continuous-foundation/fair-principles",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/curvenote/fair-principles.git"
+    "url": "git+https://github.com/continuous-foundation/fair-principles.git"
   },
   "bugs": {
-    "url": "https://github.com/curvenote/fair-principles/issues"
+    "url": "https://github.com/continuous-foundation/fair-principles/issues"
   },
   "files": [
     "dist"

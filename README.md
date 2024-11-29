@@ -1,8 +1,8 @@
 # fair-principles
 
 [![fair-principles on npm](https://img.shields.io/npm/v/fair-principles.svg)](https://www.npmjs.com/package/fair-principles)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/curvenote/fair-principles/blob/main/LICENSE)
-![CI](https://github.com/curvenote/fair-principles/workflows/CI/badge.svg)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/continuous-foundation/fair-principles/blob/main/LICENSE)
+![CI](https://github.com/continuous-foundation/fair-principles/workflows/CI/badge.svg)
 
 A tiny utility to show [FAIR Principles](https://www.go-fair.org/fair-principles/) in your application. Used under the CC-BY License from [GO FAIR](https://www.go-fair.org/fair-principles/).
 
@@ -19,7 +19,7 @@ import { formatPrinciples } from 'fair-principles';
 console.log(formatPrinciples('*', { chalk }));
 ```
 
-![](https://raw.githubusercontent.com/curvenote/fair-principles/main/images/all-principles.png)
+![](https://raw.githubusercontent.com/continuous-foundation/fair-principles/main/images/all-principles.png)
 
 ## formatPrinciples
 
@@ -82,7 +82,7 @@ As of v2.0.0 this package is [ESM only](https://gist.github.com/sindresorhus/a39
 
 <p style="text-align: center; color: #aaa; padding-top: 50px">
   Made with love by
-  <a href="https://curvenote.com" target="_blank" style="color: #aaa">
-    <img src="https://cdn.curvenote.com/brand/logo-blue-icon.png" style="height: 1em" /> Curvenote
+  <a href="https://continuous.foundation" target="_blank" style="color: #aaa">
+    Continuous Science Foundation <img src="https://continuous.foundation/images/logo-small.svg" style="height: 1em" />
   </a>
 </p>
